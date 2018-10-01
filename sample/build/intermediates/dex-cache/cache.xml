@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.2_c41b5dd191addaa42fb017ad815d56fba6d1eb1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\39d0b619ffe70fc26080b5ab88fba858e95cc024\output\jars\libs\rxandroid-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8c023dc6974699af1aca0e94e0e4f1403dc53849">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxandroid-1.1.0_dd53bca8b61ddad640f68d8506846d869340171c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\e979e9cf477719725e9f98907beba3089a7a4216\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c673246a8345d91e335beb4b9c6247e3c2232670\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_a7593f9d2a90a075e9e87c3a0c2687064c133c3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\39d0b619ffe70fc26080b5ab88fba858e95cc024\output\jars\libs\logging-interceptor-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="09793ad9c2308635c4e8a862d18f8b32a05cbb9d">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.6.0_8afe644ba0f26664d3c8e7aa2ca180e44f699936\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\39d0b619ffe70fc26080b5ab88fba858e95cc024\output\jars\libs\rxjava-computation-expressions-0.21.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fb55c48be64a50e492ed4d0ff8611cd7d89501ce">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-computation-expressions-0.21.1_625164a200b1e5449f4d654223c95f24e71b399e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\reactive-streams-1.0.0_9e5c07860de3c449183db05b02b424ca6446be43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\8273c493cb3b0fee8d485711654d876bdde1928c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7405ceae59d919df000149a7df69377415520c78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\01614944b0d11c32849bfc3909372a0094c9a297\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5534924712db68036273ce4b17e39af443d70e33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\6ca19b5c6ae6487e6ae10d02d875e13ba6485791\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_988b2e20b8869a463fdfd3adb5799a5387da2071\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.gradle\caches\modules-2\files-2.1\com.amap.api\search\5.5.0\b7fc2c582458f3eddc00b4594510793e8f70935e\search-5.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b7fc2c582458f3eddc00b4594510793e8f70935e">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\search-5.5.0_46daa3dfd2e1b6199dec672bb02e348197118902\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\cbad1a5a390c15d9da9112ac317a1d488df59a99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f15e0e68e1e139c9de4cda5162528d9fea6b112\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.gradle\caches\modules-2\files-2.1\org.bouncycastle\bcprov-jdk15on\1.57\f66a135611d42c992e5745788c3f94eb06464537\bcprov-jdk15on-1.57.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f66a135611d42c992e5745788c3f94eb06464537">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\bcprov-jdk15on-1.57_4cb71c2929d859d4a48704fc821aa9746caa6566\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\AMap_Search_V3.2.1_20160308\AMap_Search_V3.2.1_20160308.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2ca076e4192ab39f1fae2e265b15e6005a5615d">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\4\AMap_Search_V3.2.1_20160308_626bc007bd47e11f763a7a2f5052c88713399ba3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\39d0b619ffe70fc26080b5ab88fba858e95cc024\output\jars\libs\adapter-rxjava2-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f0672896d0ccddf52382fe5d4c188792c81f5a8f">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava2-2.2.0_d8de368f656c58cea638444ca4d4f616461e5c3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\f4fd5c79a197ba99426dee558f23448b55a318e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a620b9c7a7303cb6b7166e9fc8931dfe9af301a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\314b1d3d6d7a4aed7dd0c169efd698da301b333d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d32716873cb7c58081384030a6b608162a17bee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\8593c9d6070ea662e1f94c4e28e7a8db72a039da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd3c3668a02deab8fd017909d0cdf0afbbf2daf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\39d0b619ffe70fc26080b5ab88fba858e95cc024\output\jars\libs\rxjava-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="597e94dc6f967f58d2ab3b092224375ffcc49bc5">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-2.0.0_09a27a6e81be36e49798bd4b677515e736c4bca3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\65cd607c2bb7633e959d6e5f6e05168bb30eac76\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="395a44210eba35784180cc8e7ba2d1c5a962d6c2">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22e9c1d11c7655268aa2e3d530b191bf2b65cfdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.gradle\caches\modules-2\files-2.1\com.amap.api\map2d\5.2.0\15d491b0412f57284157d356bfcb9d6ea017226f\map2d-5.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="15d491b0412f57284157d356bfcb9d6ea017226f">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\map2d-5.2.0_9d9a439982d82f85314ca7522872e82ba88ff30f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\39d0b619ffe70fc26080b5ab88fba858e95cc024\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43df05e0e782c1c57d6106001d0af7175f421ee0">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d717e5a5888f2e035cb948346d40a4f654a3f46b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\AMap_2DMap_V2.8.1_20160202\AMap_2DMap_V2.8.1_20160202.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0109d970ab16fff07a9a2f22149aecdc1195a4c2">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\4\AMap_2DMap_V2.8.1_20160202_f341ef4d1c465ea0b2fd7d14044d4852b994f18f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\73bca850c0bc129efb3a36f2dfe7d76ef8f107ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d04bb8b5edaa7e8881e75e67284b898c05ea3eeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\39d0b619ffe70fc26080b5ab88fba858e95cc024\output\jars\libs\converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="57e4a03424c16c96f6e15b554008df9bac396d1f">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.2.0_9ce91cbfa03fc408da4b3949bb82ea77fa0a616f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\39d0b619ffe70fc26080b5ab88fba858e95cc024\output\jars\libs\dji-rxjava-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c79b2547fa993825756d71430c9fe9cfba2c189">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\dji-rxjava-1.1.3_01891c2b6da47b3536d7e94d009b87f430c5b06e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\39d0b619ffe70fc26080b5ab88fba858e95cc024\output\jars\libs\retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b0d9c3a922a7794e960b65b0172606144b185811">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.2.0_08ea7886a973c0e2a9f6d8638a308f06e557ef63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\e273e1550cd912df4ce0b2430ad78d1cab8181da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61d3cf67a9d248c4fb0360c146e0b0027c271157\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.gradle\caches\modules-2\files-2.1\com.amap.api\3dmap\5.5.0\5840dd853fe291d872ac38eb45f3ab08ba7117de\3dmap-5.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5840dd853fe291d872ac38eb45f3ab08ba7117de">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\3dmap-5.5.0_94c7003204d1fe8fda36b50725d5d34b9ea0a4c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.gradle\caches\modules-2\files-2.1\com.squareup.wire\wire-runtime\2.2.0\edcc5f389a5ffc0aa6fdcd73480e563affdbd24c\wire-runtime-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="edcc5f389a5ffc0aa6fdcd73480e563affdbd24c">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\wire-runtime-2.2.0_4a2514c7e59859184f2d6fa01af14d4f5566da59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\c99e2482e4ef59380ae8966eec6d98a9cfee512d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2631f89e61cf341644e50b3b88e7cba90aa7b286\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.gradle\caches\modules-2\files-2.1\org.bouncycastle\bcpkix-jdk15on\1.57\5c96e34bc9bd4cd6870e6d193a99438f1e274ca7\bcpkix-jdk15on-1.57.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c96e34bc9bd4cd6870e6d193a99438f1e274ca7">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\bcpkix-jdk15on-1.57_6501e3350de9967a97270a639cf3a16cd9b9d27d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_a2e19aa1a67edcf16ca40fc8667279793ec6aaa3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\dce7f1ca7de1f779c6bd67dfb0da4b75f5b4d617\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_421c610a46fe9b5e1d887f8a8f12e05fb1d848f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\68b245040e57a66516ac1935df73d6ba14a11417\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_49b0562daefc5a22c87a90bdc9102ef29e91192f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\e6a52115369dd2880c10b61aa67f4b2617e4511d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b9bbe7f2fe4d805413e1b7010a376ece408b6727\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\cf04bb0146fda1cb03540ff1eea074b00b927c4c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cc4517af87a5dae1708bc290a015969fa870edd5">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea8b18ff068cf213f8fb9327ada49daf4c795e33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\4da90f880094e244f008e5027c98b917106077ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3413831b544164674d39e51a049861acf89abd77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.android\build-cache\5195f8fcbc0796cd3b76bd4be565f875270a0c83\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_37ba79a273460ce96ae22d1297f69ecb6f0269f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Howard\.gradle\caches\modules-2\files-2.1\com.amap.api\location\3.6.1\538dbe4979c1a69aa5e15862a245288a585335ea\location-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="538dbe4979c1a69aa5e15862a245288a585335ea">
+        <dex dex="D:\dji-moblie-sdk\Mobile-UXSDK-Android-4.5.1\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\location-3.6.1_4b04b345f82135eaa52e2f8f3dea9204ec8667ba\classes.dex" />
+    </item>
+
+</items>
