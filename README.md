@@ -4,32 +4,7 @@
 
 The UX SDK is a suite of product agnostic UI objects that fast tracks the development of Android applications using the [DJI Mobile SDK](http://developer.dji.com/mobile-sdk/).
 
-## Integration
-
-Declare dependency via Maven:
-
-~~~xml
-<dependency>
-    <groupId>com.dji</groupId>
-    <artifactId>dji-uxsdk</artifactId>
-    <version>4.5.1</version>
-</dependency>
-
-<dependency>
-    <groupId>com.dji</groupId>
-    <artifactId>dji-sdk-provided</artifactId>
-    <version>4.5.1</version>
-</dependency>
-~~~
-
-or Gradle:
-
-~~~groovy
-compile 'com.dji:dji-uxsdk:4.5.1'
-provided 'com.dji:dji-sdk-provided:4.5.1'
-~~~
-
-For further detail on how to integrate the DJI UX SDK into your Android Studio project, please check the [Getting Started with UX SDK](http://developer.dji.com/mobile-sdk/documentation/android-tutorials/UXSDKDemo.html#import-maven-dependency) tutorial.
+#In this app, I replaced FPV function with [DSDemo](https://developer.dji.com/mobile-sdk/documentation/android-tutorials/GSDemo-Gaode-Map.html), which will allow you to set waypoints on your mobile device. In addition, you can set bridge-app IP address in the app and connect to the [bridge-app](https://github.com/dji-sdk/Android-Bridge-App), it is convenient for you to run this app on emulator or debug without connnecting to controller.
 
 ## Get Started With DJI UX SDK
 
@@ -49,27 +24,3 @@ From registering as a developer, to deploying an application, the following will
 - [Run Application](https://developer.dji.com/mobile-sdk/documentation/application-development-workflow/workflow-run.html)
 - [Testing, Profiling & Debugging](https://developer.dji.com/mobile-sdk/documentation/application-development-workflow/workflow-testing.html)
 - [Deploy](https://developer.dji.com/mobile-sdk/documentation/application-development-workflow/workflow-deploy.html)
-
-## Feedback
-
-We’d love to have your feedback as soon as possible. Reach out to us when you hit roadblocks, or want to talk through something. At a minimum please let us know:
-
-- What improvements would you like to see?
-- What is hard to use or inconsistent with your expectations?
-- What is good?
-- Any bugs you come across.
-
-## Support
-
-You can get support from DJI with the following methods:
-
-- [**DJI Forum**](http://forum.dev.dji.com/en)
-- Post questions in [**Stackoverflow**](http://stackoverflow.com) using [**dji-sdk**](http://stackoverflow.com/questions/tagged/dji-sdk) tag
-- dev@dji.com
-
-## Join Us
-
-DJI is looking for all kinds of Software Engineers to continue building the Future of Possible. Available positions in Shenzhen, China and around the world. If you are interested, please send your resume to <software-sz@dji.com>. For more details, and list of all our global offices, please check <https://we.dji.com/jobs_en.html>.
-
-DJI 招软件工程师啦，based在深圳，如果你想和我们一起把DJI产品做得更好，请发送简历到 <software-sz@dji.com>.  详情请浏览 <https://we.dji.com/zh-CN/recruitment>.
-
