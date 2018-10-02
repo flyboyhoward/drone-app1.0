@@ -4,7 +4,7 @@
 
 The UX SDK is a suite of product agnostic UI objects that fast tracks the development of Android applications using the [DJI Mobile SDK](http://developer.dji.com/mobile-sdk/).
 
-#In this app, I replaced FPV function with [DSDemo](https://developer.dji.com/mobile-sdk/documentation/android-tutorials/GSDemo-Gaode-Map.html), which will allow you to set waypoints on your mobile device. In addition, you can set bridge-app IP address in the app and connect to the [bridge-app](https://github.com/dji-sdk/Android-Bridge-App), it is convenient for you to run this app on emulator or debug without connnecting to controller.
+# In this app, I replaced FPV function with [DSDemo](https://developer.dji.com/mobile-sdk/documentation/android-tutorials/GSDemo-Gaode-Map.html), which will allow you to set waypoints on your mobile device. In addition, you can set bridge-app IP address in the app and connect to the [bridge-app](https://github.com/dji-sdk/Android-Bridge-App), it is convenient for you to run this app on emulator or debug without connnecting to controller.
 
 ## Get Started With DJI UX SDK
 
