@@ -1,4 +1,4 @@
-# DJI UX SDK for Android
+# DJI Drone app for Android
 
 ## What is This?
 
